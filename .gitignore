@@ -1,0 +1,8 @@
+# gitignore file
+/h2db
+/target
+/.vscode
+/.settings
+/.project
+/.classpath
+/.factorypath

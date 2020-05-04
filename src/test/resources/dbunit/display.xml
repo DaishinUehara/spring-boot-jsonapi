@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <M_DISPLAY DISPLAY_ID="1" DISPLAY_NAME="ログイン画面" />
+    <M_DISPLAY DISPLAY_ID="2" DISPLAY_NAME="メニュー画面" />
+</dataset>
